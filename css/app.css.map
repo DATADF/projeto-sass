@@ -1,0 +1,14 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU,GACzB",
+    "sources": [
+        "../scss/app.scss",
+        "../scss/0-plugins/_plugins-dir.scss",
+        "../scss/1-base/_base-dir.scss",
+        "../scss/1-base/_base.scss",
+        "../scss/2-layouts/_layouts-dir.scss",
+        "../scss/3-modules/_modules-dir.scss"
+    ],
+    "names": [],
+    "file": "app.css"
+}
