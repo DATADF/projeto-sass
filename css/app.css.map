@@ -1,12 +1,13 @@
 {
     "version": 3,
-    "mappings": "AGAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,UAAU,GACzB",
+    "mappings": "AGAA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,IAAI;CACnB;;AAED,AAAA,EAAE,CAAC;EACC,SAAS,EAAE,GAAG;CACjB;;AEJD,AAAA,UAAU,CAAC;EACP,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,MAAM;EACjB,MAAM,EAAE,IAAI;CACf",
     "sources": [
         "../scss/app.scss",
         "../scss/0-plugins/_plugins-dir.scss",
         "../scss/1-base/_base-dir.scss",
         "../scss/1-base/_base.scss",
         "../scss/2-layouts/_layouts-dir.scss",
+        "../scss/2-layouts/_layout.scss",
         "../scss/3-modules/_modules-dir.scss"
     ],
     "names": [],
